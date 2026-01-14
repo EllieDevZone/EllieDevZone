@@ -1,6 +1,3 @@
-<img src="elliedevzone.gif" alt="GIF" width="50%" height="50%"/>
-
-
 # 💫 About Me:
 Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, com foco em Front-end. Trabalho transformando lógica em interfaces sólidas, visuais e bem pensadas.
 Tenho interesse em criação desde cedo e encontrei no desenvolvimento web o ponto onde código, design e experiência se encontram. Evito soluções genéricas, priorizo identidade, clareza e resultado.
