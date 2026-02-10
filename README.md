@@ -1,7 +1,6 @@
-# 💫 About Me:
-Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, com foco em Front-end. Trabalho transformando lógica em interfaces sólidas, visuais e bem pensadas.
-Tenho interesse em criação desde cedo e encontrei no desenvolvimento web o ponto onde código, design e experiência se encontram. Evito o genérico, gosto de identidade, clareza e resultado.
-Este perfil é dedicado ao desenvolvimento. Aqui estão meus projetos, experimentos e minha forma de pensar front-end.
+# 💫 Sobre mim:
+Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento web.
+Tenho interesse em criação desde cedo e encontrei no desenvolvimento o ponto onde código e curiosidade se encontram. Evito o genérico, gosto de identidade, clareza e resultado. Aqui estão meus projetos, experimentos e minha forma de pensar.
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elliedevzone) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EllieDevZone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miliele-vidinha-1b890833b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EllieDevZone) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/EllieDevZone) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EllieDevZone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elliedevzone@gmail.com) 
