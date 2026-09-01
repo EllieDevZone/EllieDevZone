@@ -9,7 +9,7 @@ Tenho interesse em criação desde cedo e encontrei no desenvolvimento o ponto o
 
 - Análise e Desenvolvimento de Sistemas 5º
 
-- Engenharia de Software 3º
+- Engenharia de Software 4º
       
 
 # 💻 Tech Stack:
